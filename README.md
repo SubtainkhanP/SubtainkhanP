@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subtainkhanp&label=Profile%20views&color=0e75b6&style=flat" alt="subtainkhanp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subtainkhanp" alt="subtainkhanp" /></a> </p>
-
 - 🔭 I worked on [Responsive-Portfolio-Business-Template-HTML-CSS-](https://subtainkhanp.github.io/Responsive-Portfolio-Business-Template-HTML-CSS-/)
 
 - 🌱 I’m currently learning **AI/ML , MERN Stack**
@@ -25,9 +23,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/subtain aslam khan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subtain aslam khan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/subtain-aslam-khan-065bb023b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subtain aslam khan" height="30" width="40" /></a>
 <a href="https://instagram.com/subtain.pahore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="subtain.pahore" height="30" width="40" /></a>
-<a href="https://medium.com/@subtainkhanpahore" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subtainkhanpahore" height="30" width="40" /></a>
+<a href="[https://medium.com/@subtainkhanpahore](https://medium.com/@subtainkhanpahore)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@subtainkhanpahore" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -36,5 +34,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subtainkhanp&show_icons=true&locale=en&layout=compact" alt="subtainkhanp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subtainkhanp&show_icons=true&locale=en" alt="subtainkhanp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subtainkhanp&" alt="subtainkhanp" /></p>
